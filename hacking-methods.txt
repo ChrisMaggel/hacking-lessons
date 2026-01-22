@@ -1,0 +1,462 @@
+**NETWORK ATTACKS**
+
+- Man-in-the-Middle (MITM)
+- Packet Sniffing
+- ARP Spoofing/Poisoning
+- DNS Spoofing/Poisoning
+- DNS Hijacking
+- DNS Tunneling
+- BGP Hijacking
+- IP Spoofing
+- MAC Spoofing
+- VLAN Hopping
+- Port Scanning
+- Banner Grabbing
+- DDoS (Distributed Denial of Service)
+- DoS (Denial of Service)
+- SYN Flood
+- UDP Flood
+- ICMP Flood (Ping of Death)
+- Smurf Attack
+- Teardrop Attack
+- Ping Sweep
+- SSL Stripping
+- SSL/TLS Downgrade
+- POODLE Attack
+- BEAST Attack
+- Heartbleed
+- Session Hijacking
+- TCP Hijacking
+- Route Injection
+- Network Traffic Analysis
+- Replay Attack
+- Fragmentation Attack
+
+---
+
+**WEB APPLICATION ATTACKS**
+
+- SQL Injection (SQLi)
+- Blind SQL Injection
+- Time-based SQL Injection
+- Union-based SQL Injection
+- Cross-Site Scripting (XSS)
+- Stored XSS
+- Reflected XSS
+- DOM-based XSS
+- Cross-Site Request Forgery (CSRF)
+- Server-Side Request Forgery (SSRF)
+- Remote File Inclusion (RFI)
+- Local File Inclusion (LFI)
+- Directory Traversal
+- Path Traversal
+- Command Injection
+- OS Command Injection
+- LDAP Injection
+- XML Injection
+- XPath Injection
+- XXE (XML External Entity)
+- HTTP Response Splitting
+- HTTP Request Smuggling
+- CRLF Injection
+- Header Injection
+- Cookie Poisoning
+- Session Fixation
+- Insecure Direct Object Reference (IDOR)
+- Parameter Tampering
+- Hidden Field Manipulation
+- Forced Browsing
+- Web Cache Poisoning
+- Web Cache Deception
+- Clickjacking
+- Open Redirect
+- Server-Side Template Injection (SSTI)
+- Deserialization Attack
+- File Upload Vulnerability
+- WebSocket Hijacking
+- GraphQL Injection
+- NoSQL Injection
+- ORM Injection
+- Business Logic Flaws
+- Race Condition
+- Mass Assignment
+- API Abuse
+- Broken Authentication
+- JWT Attack
+- OAuth Exploitation
+
+---
+
+**WIRELESS ATTACKS**
+
+- Evil Twin Attack
+- Rogue Access Point
+- Deauthentication Attack
+- WEP Cracking
+- WPA/WPA2 Cracking
+- WPA3 Dragonblood
+- KRACK Attack
+- Karma Attack
+- Bluetooth Sniffing
+- Bluesnarfing
+- Bluejacking
+- Bluebugging
+- RFID Cloning
+- NFC Relay Attack
+- Jamming
+- Wardriving
+- Packet Injection
+
+---
+
+**SOCIAL ENGINEERING**
+
+- Phishing
+- Spear Phishing
+- Whaling
+- Vishing (Voice Phishing)
+- Smishing (SMS Phishing)
+- Pretexting
+- Baiting
+- Quid Pro Quo
+- Tailgating/Piggybacking
+- Impersonation
+- Dumpster Diving
+- Shoulder Surfing
+- Watering Hole Attack
+- Typosquatting
+- Homograph Attack
+- Scareware
+- Honey Trap
+- Diversion Theft
+
+---
+
+**MALWARE TECHNIQUES**
+
+- Virus
+- Worm
+- Trojan
+- Ransomware
+- Spyware
+- Adware
+- Rootkit
+- Bootkit
+- Keylogger
+- Screen Scraper
+- Backdoor
+- RAT (Remote Access Trojan)
+- Logic Bomb
+- Fileless Malware
+- Polymorphic Malware
+- Metamorphic Malware
+- Macro Malware
+- Dropper
+- Loader
+- Stager
+- Cryptojacker
+- Wiper
+- Banking Trojan
+- Info Stealer
+- Form Grabber
+- Clipboard Hijacker
+
+---
+
+**PASSWORD ATTACKS**
+
+- Brute Force
+- Dictionary Attack
+- Rainbow Table Attack
+- Credential Stuffing
+- Password Spraying
+- Hybrid Attack
+- Rule-based Attack
+- Mask Attack
+- Hash Cracking
+- Pass-the-Hash
+- Pass-the-Ticket
+- Kerberoasting
+- AS-REP Roasting
+- Golden Ticket
+- Silver Ticket
+- NTLM Relay
+- Password Guessing
+- Default Credential Exploitation
+- Keylogging
+
+---
+
+**CRYPTOGRAPHIC ATTACKS**
+
+- Birthday Attack
+- Collision Attack
+- Brute Force Decryption
+- Known-Plaintext Attack
+- Chosen-Plaintext Attack
+- Chosen-Ciphertext Attack
+- Ciphertext-Only Attack
+- Side-Channel Attack
+- Timing Attack
+- Power Analysis
+- Electromagnetic Analysis
+- Acoustic Cryptanalysis
+- Cache Timing Attack
+- Padding Oracle Attack
+- Bleichenbacher Attack
+- DROWN Attack
+- ROBOT Attack
+- Sweet32
+- Meet-in-the-Middle
+- Key Reinstallation (KRACK)
+- Nonce Reuse Attack
+- Length Extension Attack
+- Hash Length Extension
+- IV Reuse Attack
+- Weak Key Attack
+- Related-Key Attack
+- Fault Injection
+
+---
+
+**SYSTEM/OS ATTACKS**
+
+- Privilege Escalation (Vertical)
+- Privilege Escalation (Horizontal)
+- Buffer Overflow
+- Stack Overflow
+- Heap Overflow
+- Integer Overflow
+- Format String Attack
+- Use-After-Free
+- Double Free
+- Null Pointer Dereference
+- Return-to-libc
+- Return-Oriented Programming (ROP)
+- Jump-Oriented Programming (JOP)
+- Shellcode Injection
+- DLL Injection
+- DLL Hijacking
+- Process Injection
+- Process Hollowing
+- Thread Hijacking
+- API Hooking
+- IAT Hooking
+- Inline Hooking
+- SSDT Hooking
+- Token Impersonation
+- Named Pipe Impersonation
+- Unquoted Service Path
+- Insecure Service Permissions
+- Registry Attack
+- Scheduled Task Abuse
+- Startup Persistence
+- Boot Record Attack
+- Kernel Exploitation
+- Driver Exploitation
+
+---
+
+**HARDWARE ATTACKS**
+
+- Cold Boot Attack
+- DMA Attack
+- Firewire Attack
+- Thunderbolt Attack (Thunderclap)
+- USB Attack (BadUSB, Rubber Ducky)
+- BIOS/UEFI Attack
+- Firmware Attack
+- Hardware Implant
+- Bus Snooping
+- JTAG Exploitation
+- Chip Decapping
+- Glitching/Fault Injection
+- Voltage Glitching
+- Clock Glitching
+- Rowhammer
+- RAMBleed
+- Spectre
+- Meltdown
+- Foreshadow
+- ZombieLoad
+- RIDL
+- Fallout
+- MDS Attacks
+- LVI (Load Value Injection)
+- TPM Attack
+- Hardware Keylogger
+- Evil Maid Attack
+- Supply Chain Hardware Attack
+
+---
+
+**MOBILE ATTACKS**
+
+- Mobile Malware
+- Repackaging Attack
+- Overlay Attack
+- Tapjacking
+- Task Hijacking
+- Intent Hijacking
+- Broadcast Receiver Exploitation
+- Content Provider Exploitation
+- WebView Exploitation
+- Insecure Data Storage
+- Certificate Pinning Bypass
+- Root/Jailbreak Detection Bypass
+- Dynamic Instrumentation (Frida)
+- Mobile App Reverse Engineering
+- SIM Swapping
+- SS7 Exploitation
+- Baseband Attack
+- OTA Attack
+
+---
+
+**CLOUD ATTACKS**
+
+- Metadata Service Exploitation (IMDS)
+- Server-Side Request Forgery to Cloud
+- Container Escape
+- Kubernetes Exploitation
+- Misconfigured S3 Buckets
+- IAM Privilege Escalation
+- Cross-Account Access
+- Subdomain Takeover
+- Serverless Function Exploitation
+- Cloud Storage Enumeration
+- Instance Metadata Theft
+- Resource Exhaustion
+- Shared Tenancy Attack
+- Virtual Machine Escape
+- Hypervisor Attack
+- API Key Exposure
+
+---
+
+**ACTIVE DIRECTORY ATTACKS**
+
+- Pass-the-Hash
+- Pass-the-Ticket
+- Overpass-the-Hash
+- Kerberoasting
+- AS-REP Roasting
+- Golden Ticket
+- Silver Ticket
+- Diamond Ticket
+- Skeleton Key
+- DCSync
+- DCShadow
+- NTDS.dit Extraction
+- Group Policy Exploitation
+- AdminSDHolder Abuse
+- SID History Injection
+- Trust Relationship Abuse
+- Constrained Delegation Abuse
+- Unconstrained Delegation Abuse
+- Resource-Based Constrained Delegation
+- Print Spooler Exploitation (PrintNightmare)
+- PetitPotam
+- ZeroLogon
+- LDAP Relay
+- NTLM Relay
+- Shadow Credentials
+- Certificate Template Abuse
+- ADCS Exploitation
+
+---
+
+**IoT ATTACKS**
+
+- Default Credential Exploitation
+- Firmware Extraction
+- Firmware Modification
+- Unencrypted Communication Interception
+- MQTT Exploitation
+- CoAP Exploitation
+- Zigbee Attack
+- Z-Wave Attack
+- LoRaWAN Attack
+- Physical Interface Exploitation (UART, SPI, I2C)
+- OTA Update Manipulation
+- Sensor Spoofing
+- Actuator Manipulation
+
+---
+
+**BLOCKCHAIN/CRYPTO ATTACKS**
+
+- 51% Attack
+- Double Spending
+- Selfish Mining
+- Eclipse Attack
+- Sybil Attack
+- Routing Attack
+- Smart Contract Exploitation
+- Reentrancy Attack
+- Front-Running
+- Flash Loan Attack
+- Oracle Manipulation
+- Governance Attack
+- Private Key Extraction
+- Weak Randomness Exploitation
+- Dusting Attack
+- Cryptojacking
+
+---
+
+**PHYSICAL ATTACKS**
+
+- Lock Picking
+- Badge Cloning
+- Tailgating
+- Dumpster Diving
+- Surveillance
+- Wiretapping
+- Acoustic Eavesdropping
+- Laser Microphone
+- Van Eck Phreaking
+- Tempest Attack
+- Device Theft
+
+---
+
+**EVASION TECHNIQUES**
+
+- Obfuscation
+- Packing
+- Encryption
+- Steganography
+- Living off the Land (LOLBins)
+- Timestomping
+- Log Tampering
+- Anti-Forensics
+- Sandbox Evasion
+- VM Detection
+- Anti-Debugging
+- Code Signing Abuse
+- Rootkit Hiding
+- Traffic Tunneling
+- Domain Fronting
+- Fast Flux DNS
+- DGA (Domain Generation Algorithm)
+- Protocol Tunneling
+- Covert Channels
+
+---
+
+**RECONNAISSANCE**
+
+- Passive Reconnaissance
+- Active Reconnaissance
+- OSINT (Open Source Intelligence)
+- Google Dorking
+- Shodan Scanning
+- DNS Enumeration
+- WHOIS Lookup
+- Email Harvesting
+- Social Media Reconnaissance
+- Network Mapping
+- Service Enumeration
+- Vulnerability Scanning
+- Fingerprinting

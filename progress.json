@@ -1,0 +1,12 @@
+{
+  "current_method": 2,
+  "completed": ["Man-in-the-Middle (MITM)"],
+  "in_progress": null,
+  "challenges_completed": {
+    "Man-in-the-Middle (MITM)": {
+      "easy": false,
+      "medium": false,
+      "hard": false
+    }
+  }
+}
